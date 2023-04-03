@@ -30,6 +30,7 @@ body {
   background-color: var(--clr-white);
   border-radius: 20px;
   padding: 1rem;
+  box-shadow: 2px 3px 50px 0px rgba(0, 0, 0, 20%);
 }
 
 .qr-code {
